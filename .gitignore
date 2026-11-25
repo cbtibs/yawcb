@@ -1,0 +1,2 @@
+# Packaged copies of the addon. WoW loads the folder, not the zip.
+*.zip
